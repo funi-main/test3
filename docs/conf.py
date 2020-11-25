@@ -158,7 +158,6 @@ latex_documents = [
 
 
 # -- Options for manual page output ---------------------------------------
-
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [

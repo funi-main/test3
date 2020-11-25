@@ -1,4 +1,4 @@
-import hello
+from test3 import hello
 
 
 def test_hello():
