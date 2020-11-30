@@ -46,7 +46,8 @@ workflows:
   on_commit:
     jobs:
       - test
-      - lint
+      - lint:
+          context: private-python-library-template
       - check_changelog:
           filters:
             branches:

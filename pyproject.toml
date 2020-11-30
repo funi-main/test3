@@ -4,7 +4,7 @@ build-backend = "poetry.masonry.api"
 
 [tool.black]
 line-length = 79
-target-version = ['py36']
+target-version = ['py38']
 skip-string-normalization = true
 
 [tool.poetry]
@@ -34,7 +34,7 @@ documentation = "https://test3.readthedocs.io"
 python = ">=3.6,<4"
 
 [tool.poetry.dev-dependencies]
-black = "=19.10b0"
+black = "=20.8b1"
 boto3 = "=1.9.243"
 flake8 = "=3.7.9"
 flake8-bugbear = "=19.8.0"

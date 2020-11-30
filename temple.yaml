@@ -1,0 +1,7 @@
+_extensions:
+- jinja2_time.TimeExtension
+_template: git@github.com:funi-main/private-python-library-template.git
+_version: ac05716f9565e836f058a37231d0a64755242aa8
+module_name: test3
+repo_name: test3
+short_description: This is a new repo test for python templates
